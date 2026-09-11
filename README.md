@@ -1,54 +1,51 @@
 <div align="center">
 
-# 🎓 Placement Interview Simulator
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=220&section=header&text=Placement%20Interview%20Simulator&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Your%20resume%20gets%20tested%20here.%20Your%20excuses%20don't.%20💀&descAlignY=60&descSize=18"/>
 
-### `Your resume gets tested here. Your excuses don't. 💀`
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2575FC&center=true&vCenter=true&width=700&lines=🎓+Simulate+Real+Placement+Interviews;🧠+Test+Your+Aptitude;☕+Fight+The+Java+Round;💼+Survive+The+HR+Round;🏆+Get+Your+Placement+Verdict!"/>
+
+<br><br>
 
 <p>
   <img src="https://img.shields.io/badge/Java-17%2B-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Core%20Java-OOP-blue?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Console%20Application-black?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Under%20Development-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Core%20Java-OOP-2575FC?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Console-App-6A11CB?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Under%20Development-FFD700?style=for-the-badge"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/last-commit/itsdip07/Placement-Interview-Simulator?style=flat-square"/>
-  <img src="https://img.shields.io/github/repo-size/itsdip07/Placement-Interview-Simulator?style=flat-square"/>
-  <img src="https://img.shields.io/github/stars/itsdip07/Placement-Interview-Simulator?style=flat-square"/>
-  <img src="https://img.shields.io/github/forks/itsdip07/Placement-Interview-Simulator?style=flat-square"/>
+  <img src="https://img.shields.io/github/stars/itsdip07/Placement-Interview-Simulator?style=social"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/forks/itsdip07/Placement-Interview-Simulator?style=social"/>
 </p>
 
 <br>
 
-> 🚀 **A funny, interactive, console-based placement interview simulator built using Core Java.**
+> 🎯 **A colorful, interactive and funny Core Java placement interview simulator.**
 
-> 🎯 Practice Aptitude → Java Technical → HR → Get Your Placement Verdict!
+> 🧠 **Aptitude → ☕ Technical → 💼 HR → 📊 Evaluation → 🏆 Placement**
+
+<br>
+
+<a href="https://github.com/itsdip07/Placement-Interview-Simulator">
+<img src="https://img.shields.io/badge/⭐%20STAR%20THIS%20REPOSITORY-2575FC?style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
 
-# 📌 About The Project
+# 🌈 What Is This?
 
-**Placement Interview Simulator** is a console-based Java application designed to simulate a simplified campus placement experience.
+**Placement Interview Simulator** is an interactive **Core Java console application** that simulates a complete campus placement experience.
 
-Instead of simply solving questions, the candidate goes through multiple interview rounds and receives a final placement decision based on their performance.
+Instead of simply solving questions, you become a candidate and go through multiple interview rounds.
 
-The project focuses on demonstrating important **Core Java and Object-Oriented Programming concepts** while keeping the experience interactive and entertaining.
-
-### 🎓 The simulation includes:
+Your performance determines whether you:
 
 ```text
-👤 Candidate Profile
-        ↓
-🏢 Company Selection
-        ↓
-🧠 Aptitude Round
-        ↓
-☕ Technical / Java Round
-        ↓
-💼 HR Round
-        ↓
-📊 Performance Evaluation
-        ↓
-🏆 Final Placement Verdict
+🧑‍💻 Become a Software Engineer
+              OR
+💀 Become a "We'll get back to you" Engineer
