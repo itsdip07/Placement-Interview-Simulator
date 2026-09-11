@@ -7,11 +7,12 @@
 <p>
   <img src="https://img.shields.io/badge/Java-17%2B-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Core%20Java-OOP-blue?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Console%20Application-black?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Under%20Development-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/last-commit/itsdip07/Placement-Interview-Simulator?style=for-the-badge&color=green"/>
 </p>
 
 <p>
+  <img src="https://img.shields.io/github/last-commit/itsdip07/Placement-Interview-Simulator?style=flat-square"/>
   <img src="https://img.shields.io/github/repo-size/itsdip07/Placement-Interview-Simulator?style=flat-square"/>
   <img src="https://img.shields.io/github/stars/itsdip07/Placement-Interview-Simulator?style=flat-square"/>
   <img src="https://img.shields.io/github/forks/itsdip07/Placement-Interview-Simulator?style=flat-square"/>
@@ -19,50 +20,35 @@
 
 <br>
 
-> 🚀 **A funny, interactive, console-based placement simulation game built with Core Java.**
+> 🚀 **A funny, interactive, console-based placement interview simulator built using Core Java.**
+
+> 🎯 Practice Aptitude → Java Technical → HR → Get Your Placement Verdict!
 
 </div>
 
 ---
 
-## 🧑‍💻 About The Project
+# 📌 About The Project
 
-**Placement Interview Simulator** is a Core Java project that simulates the journey of a student going through a campus placement process.
+**Placement Interview Simulator** is a console-based Java application designed to simulate a simplified campus placement experience.
 
-Instead of simply solving questions, the player creates a candidate profile, chooses a company, survives interview rounds, earns scores, unlocks achievements, and finally discovers whether they are **PLACED 🎉 or REJECTED 💀**.
+Instead of simply solving questions, the candidate goes through multiple interview rounds and receives a final placement decision based on their performance.
 
-The project is being developed step-by-step with a strong focus on:
+The project focuses on demonstrating important **Core Java and Object-Oriented Programming concepts** while keeping the experience interactive and entertaining.
 
-- ☕ Core Java
-- 🧠 Object-Oriented Programming
-- 🧩 Modular architecture
-- 🎮 Interactive console experience
-- 😂 Humorous interview situations
-- 📈 Progressive feature development
-
----
-
-<div align="center">
-
-## 🎮 Current Experience
+### 🎓 The simulation includes:
 
 ```text
-                 👤 CREATE PROFILE
-                         │
-                         ▼
-                  🏢 CHOOSE COMPANY
-                         │
-                         ▼
-                   🚀 START JOURNEY
-                         │
-              ┌──────────┼──────────┐
-              ▼          ▼          ▼
-          🧠 APTITUDE  💻 TECHNICAL  🗣️ HR
-              │          │          │
-              └──────────┼──────────┘
-                         ▼
-                   📊 FINAL SCORE
-                         │
-                    ┌────┴────┐
-                    ▼         ▼
-                 🎉 PLACED   💀 REJECTED
+👤 Candidate Profile
+        ↓
+🏢 Company Selection
+        ↓
+🧠 Aptitude Round
+        ↓
+☕ Technical / Java Round
+        ↓
+💼 HR Round
+        ↓
+📊 Performance Evaluation
+        ↓
+🏆 Final Placement Verdict
